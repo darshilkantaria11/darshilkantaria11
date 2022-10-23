@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Darshil Kantariya</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+<img  style="border-radius: 100%;"   align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilkantaria11&label=Profile%20views&color=0e75b6&style=flat" alt="darshilkantaria11" /> </p>
 
 
-- 💬 Ask me about **HTML,CSS,JS......&...... C,C++,Python**
+<h3> 💬 Ask me about HTML,CSS,JS......&...... C,C++,Python</h3>
 
-- 👨‍💻 To know more about me you can visit [https://darshil.netlify.app/](https://darshil.netlify.app/)
+<h3> 👨‍💻 To know more about me you can visit <a href="https://darshil.netlify.app/">My profile</a></h3>
 
-- 📫 U can reach me st **darshilkantaria11@gmail.com**
-
-- 📄 For resume click <a href="https://drive.google.com/file/d/1ORDKMFJ-4lFq65FxHz7_-DKtQQNFm8P2/view?usp=sharing">**here**</a>
+<h3> 📄   <a href="https://drive.google.com/file/d/1ORDKMFJ-4lFq65FxHz7_-DKtQQNFm8P2/view?usp=sharing">Resume</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
