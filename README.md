@@ -14,9 +14,9 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/darshilkantaria11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darshilkantaria11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshil kantariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshil kantariya" height="30" width="40" /></a>
-<a href="https://instagram.com/darshil_kantariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshil_kantariya_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshil kantariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshil kantariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshil-kantariya-006387226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshil kantariya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/darshil__kantariya__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshil_kantariya_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kn7883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshil kantariya" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
