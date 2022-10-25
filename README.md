@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Darshil Kantariya</h1>
+<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29">, I'm Darshil Kantariya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img     align="right" alt="Coding" width="400" src="https://darshilkantaria11.github.io/gif.gif">
 
