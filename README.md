@@ -9,7 +9,7 @@
 
 <h3> - 👨‍💻 To know more about me you can visit <a href="https://darshil.netlify.app/">My profile</a></h3>
 
-<h3> - 📄 <a href="https://drive.google.com/file/d/1ORDKMFJ-4lFq65FxHz7_-DKtQQNFm8P2/view?usp=sharing">Resume</a></h3>
+<h3> - 📄 <a href="https://one-resume.vercel.app/">Resume</a></h3>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
